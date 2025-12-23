@@ -1,2 +1,3 @@
 parent1
 https://orbittesting.qualcomm.com/CR/11123532
+qualcomm-linux-stg/orbit.parent
